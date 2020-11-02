@@ -9,8 +9,8 @@ For **Assignment 2**, I solved this problem using both Python and SAS. The PDF o
 For **Assignment 3**, I solved this problem using the folium package for Python. The heatmaps cannot be rendered in Github and will need to be shown through the notebook when the Anaconda server is running on my local machine or from the links to the webapp noted below. The PDF of the solution can be viewed from this [link](https://github.com/grantaguinaldo/bi-work/blob/main/bi-work-assignment-03.pdf). The Python code that I developed for this Assignment can be viewed from this [link](https://github.com/grantaguinaldo/bi-work/blob/main/bi-work-assignment-03.ipynb).
 
 To aid in visualizing the heatmaps, I am hosting both maps on a webapp (please wait for upto 30 seconds for the sever to load).
-The Response Rates for that are <50% can be viewed at this [link](https://grantaguinaldo-heatmap.herokuapp.com/lower).
-The Response Rates for that are >75% can be viewed at this [link](https://grantaguinaldo-heatmap.herokuapp.com/upper).
+- The Response Rates for that are <50% can be viewed at this [link](https://grantaguinaldo-heatmap.herokuapp.com/lower).
+- The Response Rates for that are >75% can be viewed at this [link](https://grantaguinaldo-heatmap.herokuapp.com/upper).
 
 #### Map of the Response Rates in the >75% Quartile (Map 1 of 2)
 ![enter image description here](https://github.com/grantaguinaldo/bi-work/blob/main/bi-work-assignment-03-grt75pct-heatmap-1-of-2.png)
