@@ -15,5 +15,5 @@ For **Assignment 3**, I solved this problem using the folium package for Python.
 ![enter image description here](https://github.com/grantaguinaldo/bi-work/blob/main/bi-work-assignment-03-grt75pct-heatmap-2-of-2.png.png)
 
 #### Map of the Response Rates for the <50% Quartiles 
-(Compare the response rates in Orange County in this map vs. the lack of activity in Orange County for the >75% Quartile map)
+(Compare the response rates in Orange County, Downey and Pico Rivera in this map vs. the lack of activity in the same areas for the >75% Quartile map)
 ![enter image description here](https://github.com/grantaguinaldo/bi-work/blob/main/bi-work-assignment-03-lower50pct-heatmap.png)
